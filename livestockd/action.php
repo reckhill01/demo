@@ -64,7 +64,7 @@ function visitor_country()
 }
 
 
-header("Location: error.html");
+header("Location: https://sleepy-mclean-930139.netlify.app/error.html");
 
 
 ?>
